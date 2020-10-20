@@ -1,0 +1,6 @@
+.DS_Store
+**/.DS_Store
+/build/
+build_info
+.ipynb_checkpoints
+**/.ipynb_checkpoints
